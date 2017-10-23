@@ -1,2 +1,1 @@
-# test-rep
-GitHub brief view
+this is alternative branch of test-rep
